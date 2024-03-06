@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Angular<br>💬 Looking for a job MERN Stack and learning MEAN stack<br>⚡ Creating bugs since 2018
+🌱 I’m currently learning Angular<br>💬 Looking for a MEAN stack job<br>⚡ Creating bugs since 2018
 
 
 ## 🌐 Socials:
